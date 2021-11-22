@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Mia San Mia <br>
-FC Bayern Munchen <br>
-667 Ekip
 
 <!---
 Jeff-Erson44/Jeff-Erson44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

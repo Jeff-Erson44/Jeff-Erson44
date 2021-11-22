@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Mia San Mia 
-FC Bayern Munchen 
+Mia San Mia <br>
+FC Bayern Munchen <br>
 667 Ekip
 
 <!---

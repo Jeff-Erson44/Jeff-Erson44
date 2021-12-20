@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript Pyhton PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-website : <a href="http://jeffersonk-com"> jefferson-k.com (IN PROGRESS) </a> <br>
+website : <a href="http://jefferson-k.com"> jefferson-k.com</a> (IN PROGRESS) <br>
    mail : jeffersonk.pro@gmail.com
 
 <!---

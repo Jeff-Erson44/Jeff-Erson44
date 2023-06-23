@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Jeff-Erson44
 - 👀 I’m interested in Dev / Blockchain / Crypto / AI / NFT
-- 🌱 I’m currently learning Javascript / React.JS/ Next.JS Pyhton
+- 🌱 I’m currently learning Typescript / React.JS/ Next.JS Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-website : <a href="http://jefferson-k.com"> jefferson-k.com</a> (IN PROGRESS) <br>
+website : <a href="http://jefferson-k.com"> jefferson-k.com</a> <br>
    mail : jeffersonk.pro@gmail.com
 
 <!---

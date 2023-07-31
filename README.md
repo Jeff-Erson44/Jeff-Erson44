@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeff-Erson44
-- 👀 I’m interested in Dev / Blockchain / Crypto / AI / NFT
+- 👀 I’m interested in Dev / Blockchain / Crypto / AI / NFT / Stock
 - 🌱 I’m currently learning Typescript / React.JS/ Next.JS Pyhton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 

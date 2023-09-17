@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jeff-Erson44
-- 👀 I’m interested in Dev / Blockchain / Crypto / AI / NFT / Stock
-- 🌱 I’m currently learning Typescript / React.JS/ Next.JS Pyhton
+- 👋 Hi, I’m @Jefferson.K
+- 👀 I’m interested in Dev / Blockchain / Crypto / AI 
+- 🌱 I’m currently learning Typescript / React.JS/ Pyhton / Sharepoint & Power Automate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 website : <a href="http://jefferson-k.com"> jefferson-k.com</a> <br>

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jefferson.K
-- 👀 I’m interested in Dev / Blockchain / Crypto / AI 
+- 👀 I’m interested in Cloud / Blockchain / Crypto / AI 
 - 🌱 I’m currently learning TypeScript / React.js / Python 
 - 📫 How to reach me 
 website : <a href="http://jefferson-k.com"> jefferson-k.com</a> <br>

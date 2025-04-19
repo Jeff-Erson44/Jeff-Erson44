@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jefferson.K
 - 👀 I’m interested in Dev / Blockchain / Crypto / AI 
-- 🌱 I’m currently learning Typescript / React.JS/ Pyhton / Sharepoint & Power Automate
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Typescript / React.JS/ Pyhton
 - 📫 How to reach me 
 website : <a href="http://jefferson-k.com"> jefferson-k.com</a> <br>
    mail : jeffersonk.pro@gmail.com
